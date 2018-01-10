@@ -24,7 +24,7 @@ Bu ödevimizde yaptığımız deney hakkında bilgilendirme yapacağız.
 Öncelikle kabımıza suyu ekledik. Daha sonra kuru kumaşı fotoğraf çektik. Çünkü bu fotoğraflar ödev anında bizim için gerekli olacaktı. Kumaşımızı suyun içine koyduk ve kumaşımızı ıslattık. Kumaşımızda kuru bir iki kısım var. Bu da aradaki renk farkının görülmesi için gerekliydi. Islattıktan sonra da kumaşımızın fotoğrafını çektik. Kuru ve ıslak kumaşların renk farkını araştırmaya koyulduk.
  
 # Bulgular (Results)
- Deneyimizin sonunda hipotezimizin doğru olduğunu gördük. Gerçekten kumaş ıslandıktan sonra pembe rengçni belirgin biçimde koyulaştırdı. Su miktarımız ve kabımızın genişliği çok fazla olmadığı için bu durumun ışığın kırınımı ile ilgili olduğunu düşündüğümüz de oldu. Malzemelerimizi deney için yeterli bulduk. Hipotezimizi gerçekleştirdik.
+ Deneyimizin sonunda hipotezimizin doğru olduğunu gördük. Gerçekten kumaş ıslandıktan sonra pembe rengini belirgin biçimde koyulaştırdı. Su miktarımız ve kabımızın genişliği çok fazla olmadığı için bu durumun ışığın kırınımı ile ilgili olduğunu düşündüğümüz de oldu. Malzemelerimizi deney için yeterli bulduk. Hipotezimizi gerçekleştirdik.
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
