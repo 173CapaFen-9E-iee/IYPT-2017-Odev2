@@ -1,34 +1,17 @@
  
 
 
-# ESİN ÖZTÜRK 9/E
-# ECENUR AKBAŞ 9/E 
-# İREM YILMAZ 9/E
+• ESİN ÖZTÜRK 9/E
+• ECENUR AKBAŞ 9/E 
+• İREM YILMAZ 9/E
+
 Bu ödevimizde yaptığımız deney hakkında bilgilendirme yapacağız.
 
 # Özet (Abstract)
- Yapacağımız proje "Islaksa Daha Koyu"
+ Yapacağımız proje "Islaksa Daha Koyu". Bu projede başarılı olursak "Herhangi bir nesne ıslatılınca rengi neden koyulaşır?" sorusunun cevabını bulmuş oluruz. Bir önceki ödevimizde araştırmalarımız doğrultusunda şu kanıya varmıştık: Eğer üzerimize bir bardak su dökersek ıslanan bölgenin diğer bölgelere nazaran daha koyu olduğunu, aslında kıyafete yine aynı miktarda ışık eriştiğini ama suyun ışık yansımasının zorlaşmasına neden olduğu kanısına varmıştık. Projeyi yaparken şöyle bir plan doğrultusunda ilerlemeyi düşünüyoruz: Öncelikle deneyimizdeki amaç nesnelerin ıslandığında koyu renk görülmesinin sebebi. Bu yüzden nesnelerimizi kuru ve ıslak olarak değerlendirip renginin niçin böyle olduğunu araştırmak olacaktır. Bu projeyi yaparken kullanacağımız malzemeler materyal ve yöntem adlı başlık altında yazılmıştır.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+ Islaksa daha koyu projesi; ıslak cisimlerin neden koyulaştığını araştırmak.
+ 
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
